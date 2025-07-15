@@ -37,8 +37,9 @@ bash
 ├── gateway_producer.py       # Sends simulated Gateway transactions to Kafka
 ├── ledger_producer.py        # Sends simulated Ledger transactions to Kafka
 ├── consumer_spark.py         # Spark Structured Streaming job to process & write to Snowflake
-├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
 
 ___
+
+
 
