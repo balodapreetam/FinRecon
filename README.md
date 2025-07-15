@@ -41,5 +41,10 @@ bash
 
 ___
 
+🙋🏻 About Me
+
+I’m a final-year B.Tech student in Data Science 🎓 This project reflects my hands-on learning in real-time data engineering and stream processing. Actively exploring opportunities to learn and grow in data infrastructure and big data pipelines 🚀
+
+🔗 Connect with me : • 💼 http://linkedin.com/in/preetambaloda
 
 
